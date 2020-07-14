@@ -1,0 +1,25 @@
+1.localhost:9090/menuCreate
+input:
+[{
+	
+	"foodName": "Pizza",
+	"rating": 5,
+	"price": 500,
+	"feedback": "It's delisious! "
+	
+},
+{
+	
+	"foodName": "Burger ",
+	"rating": 4,
+	"price": 300,
+	"feedback": "It's delisious! "
+},
+{
+        
+    
+	"foodName": "Noodels ",
+	"rating": 4.5,
+	"price": 100,
+	"feedback": "It's delisious!"
+    }]
